@@ -20,11 +20,14 @@ A passionate Full-Stack Developer who loves transforming complex problems into b
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-chauhan-696a18262/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:chauhanluckey4@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://www.instagram.com/piyush_xt09__/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
 
@@ -48,16 +51,3 @@ A passionate Full-Stack Developer who loves transforming complex problems into b
 </p>
 
 ---
-
-## ☕ Support  
-If you like my work or this profile generator helped you, consider supporting 🙏  
-
-<p align="left">
-  <a href="https://ko-fi.com/rahuldkjain" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" width="170" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
----
-
-### 🔥 Made with ❤️ in India 🇮🇳  
