@@ -1,29 +1,55 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Chauhan</h1>
+
 <h3 align="center">
-A passionate Full-Stack Developer who loves transforming complex problems into beautiful, intuitive, and high-performance digital experiences. I specialize in crafting interactive UI, optimizing performance, and staying at the forefront of modern web technologies.
+🚀 Full-Stack Developer | UI/UX Enthusiast | Performance Optimizer  
+<br/>
+I love transforming complex problems into beautiful, intuitive, and high-performance digital experiences.
 </h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushxt09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=piyushxt09&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies  
+## 🏆 Achievements & Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushxt09&theme=chalk&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushxt09&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
+## 🎓 Certifications
+
+<p align="center">
+
+<!-- React Certificate -->
+
+<img src="https://img.shields.io/badge/React_JS-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<!-- Angular Certificate -->
+
+<img src="https://img.shields.io/badge/Angular-Certified-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+</p>
+
+<p align="center">
+✔️ React JS Development Certification  
+✔️ Angular Development Certification  
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-chauhan-696a18262/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:chauhanluckey4@gmail.com" target="_blank">
+  <a href="mailto:chauhanluckey4@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="https://www.instagram.com/piyush_xt09__/" target="_blank">
@@ -33,21 +59,29 @@ A passionate Full-Stack Developer who loves transforming complex problems into b
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,angular,php,laravel,java,cpp,c,flutter,figma,bootstrap,sass,tailwind,mongodb,mysql,aws" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushxt09&show_icons=true&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushxt09&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushxt09&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxt09&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushxt09&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=piyushxt09&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+---
+
+## ✨ Fun Fact
+
+💡 I enjoy building scalable applications and crafting pixel-perfect UI that users love.
 
 ---
