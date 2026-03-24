@@ -14,14 +14,6 @@ I love transforming complex problems into beautiful, intuitive, and high-perform
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushxt09&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p align="center">
